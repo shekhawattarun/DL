@@ -1,1 +1,1 @@
-Labs/Assignments at IIT Jammu for M.Tech(AI/ML)
+Labs/Assignments done at IIT Jammu for M.Tech(AI/ML)
